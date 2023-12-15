@@ -20,6 +20,6 @@ Programa en MSX BASIC que lee un archivo de texto con código *brainfuck* y lo c
 
 ## Enlaces
 
-http://cacharreomsx.blogspot.com/2022/08/compilador-de-brainfuck-para-z80.html   
-http://brainfuck.org/
+Código comentado: http://cacharreomsx.blogspot.com/2022/08/compilador-de-brainfuck-para-z80.html   
+Programas en BrainFuck: http://brainfuck.org/
 
