@@ -1,6 +1,6 @@
 # Compilador de brainfuck para Z80 en MSX BASIC
 
-Programa en MSX BASIC que lee un archivo de texto con código *brainfuck* y lo compilar para generar un archivo binario.
+Programa en MSX BASIC que lee un archivo de texto con código *brainfuck* y lo compila para generar un archivo binario.
 
 ## Ejecución Compilador
 
