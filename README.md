@@ -8,7 +8,15 @@ Programa en MSX BASIC que lee un archivo de texto con código *brainfuck* y lo c
 
 ## Ejecución código binario
 
-    BLOAD"xxxx.bin",R
+**Carga de fichero binario**
+
+     BLOAD"xxxx.bin",R
+
+**Definición de rutina máquina**
+
+    DEFUSR(0)=&HAC00
+    L=USR(0)
+
 
 ## Enlaces
 
